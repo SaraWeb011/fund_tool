@@ -1,0 +1,48 @@
+@charset "utf-8" ;
+/*
+mais um comando de comentario de código,
+somente para CSS.
+*/
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+/* background-color: #72c0c2 */
+}
+
+body{
+margin:0;
+padding:0;
+box-sizing: border-box;
+
+background: linear-gradient(to right, #005b5e, #befcfd)  
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+nav{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+main{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+footer{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
